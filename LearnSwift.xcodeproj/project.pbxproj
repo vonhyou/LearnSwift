@@ -25,6 +25,7 @@
 /* Begin PBXFileReference section */
 		0472FC1A255968B800C1B8C1 /* LearnSwift */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = LearnSwift; sourceTree = BUILT_PRODUCTS_DIR; };
 		0472FC1D255968B800C1B8C1 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		0472FC25255969D900C1B8C1 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -41,6 +42,7 @@
 		0472FC11255968B800C1B8C1 = {
 			isa = PBXGroup;
 			children = (
+				0472FC25255969D900C1B8C1 /* README.md */,
 				0472FC1C255968B800C1B8C1 /* LearnSwift */,
 				0472FC1B255968B800C1B8C1 /* Products */,
 			);
